@@ -1,4 +1,7 @@
-# Why "good" diet advice is bad for losing weight
+---
+layout: post
+title: Why "good" diet advice is bad for losing weight
+---
 
 Like most of East London, I got into rock climbing last year.
 I've always done a lot of sport so I'm naturally strong, but it turns out the only thing that really matters for climbing is the finger strength to bodyweight ratio.
