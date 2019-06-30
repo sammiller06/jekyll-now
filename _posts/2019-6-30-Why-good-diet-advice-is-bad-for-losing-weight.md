@@ -11,7 +11,7 @@ Or you can lose weight, which can be much faster.
 I've never been good at moderation, so I decided to drop from 89 to 80kg in 2 months (full disclosure: some lucky Norovirus timing helped at the end).
 
 
-<div style="float: left; width:50%; font-size:100%; text-align:center;"><img src="diet/cricket.jpg" alt="drawing" width = "300" /></div><div style="float: left; width: 50%; font-size:100%; text-align:center;"><img src="diet/wonderfields.jpg" alt="drawing" width = "300" /></div>
+<div style="float: left; width:50%; font-size:100%; text-align:center;"><img src="{{site.url}}/images/cricket.jpg" alt="drawing" width = "300" /></div><div style="float: left; width: 50%; font-size:100%; text-align:center;"><img src="{{site.url}}/images//wonderfields.jpg" alt="drawing" width = "300" /></div>
 <p style="clear: both;">
 
 
@@ -50,7 +50,7 @@ But because I didn't dread feeling hungry, I ended up losing 10kg and fitting in
 I'd have no concerns about pulling the same stunt again next year.
 
 
-<div style="float: left; width:50%; font-size:100%; text-align:center;"><img src="diet/february.jpeg" alt="drawing" width = "300" /></div><div style="float: left; width: 50%; font-size:100%; text-align:center;"><img src="diet/hackney.jpg" alt="drawing" width = "300" /></div>
+<div style="float: left; width:50%; font-size:100%; text-align:center;"><img src="{{site.url}}/images/february.jpeg" alt="drawing" width = "300" /></div><div style="float: left; width: 50%; font-size:100%; text-align:center;"><img src="{{site.url}}/images/hackney.jpg" alt="drawing" width = "300" /></div>
 <p style="clear: both;">
 
 
