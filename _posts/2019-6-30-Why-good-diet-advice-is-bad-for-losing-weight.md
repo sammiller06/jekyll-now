@@ -18,6 +18,7 @@ They recommend eating high protein and low carb: 1 gram contains 4 calories in b
 This is largely true and is strongly supported by academic consensus.
 But the problem comes from the goal of trying not to feel hungry in the first place.
 
+--
 
 I was trying to lose 1kg per week, or a stone every 6 weeks.
 This involved taking in 1000 fewer calories daily than I was burning, so I had to take some pretty hard steps like cutting out fruit.
@@ -48,7 +49,7 @@ But because I didn't dread feeling hungry, I ended up losing 10kg and fitting in
 I'd have no concerns about pulling the same stunt again next year.
 
 
-<div style="float: left; width:50%; font-size:100%; text-align:center;"><img src="sammiller06.github.io/images/february.jpeg" alt="drawing" width = "300" /></div><div style="float: left; width: 50%; font-size:100%; text-align:center;"><img src="sammiller06.github.io/{site.url}}/images/hackney.jpg" alt="drawing" width = "300" /></div>
+<div style="float: left; width:50%; font-size:100%; text-align:center;"><img src="sammiller06.github.io/images/february.jpeg" alt="drawing" width = "300" /></div><div style="float: left; width: 50%; font-size:100%; text-align:center;"><img src="sammiller06.github.io/images/hackney.jpg" alt="drawing" width = "300" /></div>
 <p style="clear: both;">
 
 
