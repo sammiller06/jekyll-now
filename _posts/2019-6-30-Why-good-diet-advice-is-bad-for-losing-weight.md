@@ -25,6 +25,7 @@ This involved taking in 1000 fewer calories daily than I was burning, so I had t
 Obviously this led to me often feeling hungry and I felt like I was doing something wrong, because I'd read that dieting well meant avoiding hunger.
 Sometimes I'd try to break the diet in "healthy" ways, like eating fruit, which led to me feeling doubly bad because it didn't really make the hunger go away.
 
+--
 
 Why is most diet advice focussed on trying to prevent hunger?
 The body usually tries to maintain its internal conditions in a process called homeostasis.
@@ -33,6 +34,7 @@ Hunger is the equivalent reaction to losing weight, which for most of human evol
 But that's clearly no longer the case and, when dieting, it's probably a good thing.
 Indeed, **hunger is a sign that your diet is working.**
 
+--
 
 This might all seem obvious, but most diet advice puts you in the opposite mentality.
 They say just eat X or do Y and you can avoid being hungry.
@@ -41,6 +43,7 @@ When you're hungry, you should see it as a signal that you're losing weight and 
 This will reduce the urge to break your diet as you see that trying to stop hunger is counter-productive.
 In turn, you will no longer dread dieting.
 
+--
 
 I am no authority on nutrition, but I thought I'd write because it runs against the conventional wisdom and I found this switch in mentality to be a game-changer.
 Last Winter I was training for strength, so I wanted to be heavy to complement that.
